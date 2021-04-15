@@ -77,6 +77,11 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="HistoryContext.cs" />
+    <Compile Include="Migrations\202104150755484_initia.cs" />
+    <Compile Include="Migrations\202104150755484_initia.designer.cs">
+      <DependentUpon>202104150755484_initia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="persistence context.cs" />
     <Compile Include="ItemPenjualanViewModel.cs" />
     <Compile Include="ItemPenjualan.cs" />
@@ -99,6 +104,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <EmbeddedResource Include="Migrations\202104150755484_initia.resx">
+      <DependentUpon>202104150755484_initia.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

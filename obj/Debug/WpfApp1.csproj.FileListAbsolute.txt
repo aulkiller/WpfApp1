@@ -34,3 +34,4 @@ D:\AulCoding\source\repos\WpfApp1\WpfApp1\bin\Debug\MySql.Data.EntityFramework.x
 D:\AulCoding\source\repos\WpfApp1\WpfApp1\bin\Debug\MySql.Data.xml
 D:\AulCoding\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.config
 D:\AulCoding\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\AulCoding\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Migrations.initia.resources
